@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="206986bf-bfac-4363-869b-2ced3cbf2448" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="206986bf-bfac-4363-869b-2ced3cbf2448" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -249,16 +246,15 @@
       <workItem from="1536306599841" duration="102000" />
       <workItem from="1536307233899" duration="112000" />
       <workItem from="1536308868719" duration="30000" />
-      <workItem from="1536309018320" duration="402000" />
+      <workItem from="1536309018320" duration="532000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30260000" />
+    <option name="totallyTimeSpent" value="30390000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="159" y="98" width="1103" height="714" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -270,10 +266,10 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.31118315" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.4197731" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.4197731" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35061264" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35061264" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
